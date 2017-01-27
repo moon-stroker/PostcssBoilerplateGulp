@@ -45,7 +45,7 @@ En la terminal
 gulp serve
 ```
 
-Esto arrancará un servidor node, el cual cuenta con un browserSync que permitira que todos los cambios realizados se refresquen automaticamente en el navegador. Además transformará los postCss a un solo main.css, asi como los archivos js en un "bundle.js" y unificará todos los scriots dentor de la carpeta vendor en un solo archivo "vendors.js"
+Esto arrancará un servidor node, el cual cuenta con un browserSync que permitira que todos los cambios realizados se refresquen automaticamente en el navegador. Además transformará los postCss a un solo main.css, asi como los archivos js en un "bundle.js" y unificará todos los scripts dentro de la carpeta vendor en un archivo "vendors.js"
 
 ### Producción
 
